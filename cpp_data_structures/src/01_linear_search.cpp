@@ -1,4 +1,4 @@
-// Linear Search
+// Linear Search Algorithm
 
 #include <iostream>
 

@@ -1,4 +1,4 @@
-// Binary Search Recursive Approach
+// Binary Search Algorithm Recursive Approach
 
 #include <iostream>
 

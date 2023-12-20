@@ -1,4 +1,4 @@
-// Binary Search Iterative Approach
+// Binary Search Algorithm Iterative Approach
 
 #include <iostream>
 
