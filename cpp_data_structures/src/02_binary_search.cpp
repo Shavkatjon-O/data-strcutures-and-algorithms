@@ -4,6 +4,7 @@
 // - Best Case: O(1)
 // - Worst Case: O(log n)
 // - Average Case: O(log n)
+// Space Complexity: O(1)
 
 #include <iostream>
 
