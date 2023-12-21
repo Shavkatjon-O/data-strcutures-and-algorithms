@@ -44,7 +44,7 @@ int main()
     cout << "Array to sort: ";
     display_array(array, max_size);
 
-    // Start Selection Sort
+    // Start Bubble Sort
     bubble_sort(array, max_size);
 
     // Display Array After Sorting
