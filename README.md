@@ -1,2 +1,2 @@
-# Data Structures and Computer Algorithms
+# Data Structures and Algorithms
 ## Implementation of DSA in Python, Java, C++
