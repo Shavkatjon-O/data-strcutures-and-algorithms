@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// TODO: Fix bug
+
 void bubble_sort(int array[], int max_size)
 {
     while (true)
