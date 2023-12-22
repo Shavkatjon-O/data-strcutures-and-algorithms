@@ -1,3 +1,3 @@
-<p align="center"># Data Structures and Algorithms</p>
+# <p align="center">Data Structures and Algorithms</p>
 > Detailed lecture notes - 
-## Implementation of DSA in Python, Java, C++
+# Implementation of DSA in Python, Java, C++
