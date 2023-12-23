@@ -8,7 +8,7 @@
 
 > Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in C++, Java, and Python.
 
-Lecture notes and source codes on data structures and computer algorithms by [Shavkatjon-O](https://github.com/Shavkatjon-O).
+Made by [Shavkatjon-O](https://github.com/Shavkatjon-O).
 
 ## Table of Contents
 
