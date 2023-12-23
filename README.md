@@ -11,7 +11,7 @@ Lecture notes and source codes on data structures and computer algorithms by [Sh
 
 
 
-# Data Structures and Algorithms
+# Briefly about this repo
 
 Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in Python, Java, and C++.
 
