@@ -1,4 +1,6 @@
-# Data Structures and Algorithms
+<p align="center">
+  <h1>Data Structures and Algorithms</h1>
+</p>
 
 <p align="center">Lecture Notes • Source Code • Resources</p>
 
