@@ -8,12 +8,8 @@
 
 Lecture notes and source codes on data structures and computer algorithms by [Shavkatjon-O](https://github.com/Shavkatjon-O).
 
-> Detailed lecture notes - Implementation of DSA in Python, Java, C++
 
-
-
-
-Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in Python, Java, and C++.
+> Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in Python, Java, and C++.
 
 ## Table of Contents
 
