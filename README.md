@@ -1,6 +1,6 @@
 <h1 align="center">Data Structures and Algorithms</h1>
 
-<p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p>
+<!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
 ![Image Alt Text](images/dsa1.webp)
 
