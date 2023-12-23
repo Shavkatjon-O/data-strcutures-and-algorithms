@@ -5,6 +5,6 @@
 ![Image Alt Text](images/dsa1.webp)
 
 
-Lecture notes and source codes on data structures and computer algorithms
+Lecture notes and source codes on data structures and computer algorithms by @Shavkatjon
 
 > Detailed lecture notes - Implementation of DSA in Python, Java, C++
