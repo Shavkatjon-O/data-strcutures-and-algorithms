@@ -5,6 +5,6 @@
 ![Image Alt Text](images/dsa1.webp)
 
 
-Lecture notes and source codes on data structures and algorithms by [@Shavkatjon-O](https://github.com/Shavkatjon-O)
+Lecture notes and source codes on data structures and computer algorithms by [Shavkatjon-O](https://github.com/Shavkatjon-O).
 
 > Detailed lecture notes - Implementation of DSA in Python, Java, C++
