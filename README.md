@@ -6,7 +6,7 @@
 
 <h3>Your must-have cheat sheet for Data Structures and Algorithms! 🚀  </h3>
 
-> Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in Python, Java, and C++.
+> Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in C++, Java, and Python.
 
 Lecture notes and source codes on data structures and computer algorithms by [Shavkatjon-O](https://github.com/Shavkatjon-O).
 
