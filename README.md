@@ -10,7 +10,7 @@
 
 Made by [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
-## Table of Contents
+<!-- ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Languages](#languages)
@@ -57,4 +57,4 @@ The repository is organized into different directories based on programming lang
 | |-- sorting
 | |-- searching
 | ...
-```
+``` -->
