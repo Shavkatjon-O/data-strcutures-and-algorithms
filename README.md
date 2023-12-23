@@ -4,6 +4,7 @@
 
 ![Image Alt Text](images/dsa1.webp)
 
+Your ultimate cheat sheet for Data Structures and Algorithms! 🚀
 
 Lecture notes and source codes on data structures and computer algorithms by [Shavkatjon-O](https://github.com/Shavkatjon-O).
 
