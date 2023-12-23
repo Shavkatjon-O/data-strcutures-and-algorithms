@@ -42,3 +42,24 @@ Feel free to explore the language-specific folders to find the implementation th
 
 The repository is organized into different directories based on programming languages. Each language folder contains subdirectories for various topics, such as arrays, linked lists, sorting algorithms, searching algorithms, etc.
 
+```
+/data-structures-and-algorithms
+|-- python
+| |-- arrays
+| |-- linked_lists
+| |-- sorting
+| |-- searching
+| ...
+|-- java
+| |-- arrays
+| |-- linked_lists
+| |-- sorting
+| |-- searching
+| ...
+|-- cpp
+| |-- arrays
+| |-- linked_lists
+| |-- sorting
+| |-- searching
+| ...
+```
