@@ -12,13 +12,52 @@ Made by [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
 
 ## Table of Contents
+- [Section 1](#section-1)
+  - [Subsection 1.1](#subsection-1.1)
+  - [Subsection 1.2](#subsection-1.2)
+- [Section 2](#section-2)
+  - [Subsection 2.1](#subsection-2.1)
+  - [Subsection 2.2](#subsection-2.2)
 
+
+## 📚 Table of Contents
 - [Introduction](#introduction)
-    -[Introduction to Data Structures](#data-structures)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
 
 
-# Introduction
-## Introduction to data structures
+
+<details>
+  <summary>Table of Contents</summary>
+
+  - [Section 1](#section-1)
+    - [Subsection 1.1](#subsection-1.1)
+    - [Subsection 1.2](#subsection-1.2)
+  - [Section 2](#section-2)
+    - [Subsection 2.1](#subsection-2.1)
+    - [Subsection 2.2](#subsection-2.2)
+</details>
+
+
+## Table of Contents
+
+- [Section 1](#section-1)
+---
+- [Section 2](#section-2)
+---
+- [Section 3](#section-3)
+
+
+## **Table of Contents**
+- [*Section 1*](#section-1)
+- [**Section 2**](#section-2)
+- [_Section 3_](#section-3)
+
+<span style="color: green;">**Table of Contents**</span>
+- <span style="color: blue;">[Section 1](#section-1)</span>
+- <span style="color: red;">[Section 2](#section-2)</span>
+- <span style="color: purple;">[Section 3](#section-3)</span>
 
 
 <!-- ## Table of Contents
