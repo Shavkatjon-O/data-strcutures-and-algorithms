@@ -10,6 +10,17 @@
 
 Made by [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+    -[Introduction to Data Structures](#data-structures)
+
+
+# Introduction
+## Introduction to data structures
+
+
 <!-- ## Table of Contents
 
 1. [Introduction](#introduction)
