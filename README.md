@@ -10,6 +10,8 @@
 
 **Made by** [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
+![Divider](images/divider.png)
+
 ## Introduction to Data Structures
 
 Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications.
