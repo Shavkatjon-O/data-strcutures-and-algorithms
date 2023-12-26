@@ -10,9 +10,11 @@
 
 **Made by** [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
-<!-- ![Divider](images/line.png) -->
+![Divider](images/line.png)
 
 ## Table of Contents
+
+- [Introduction]
 
 1. [Data Structures](#data-structures)
   1. [Basics of Data Structures](#data-structures-basics)
@@ -23,7 +25,7 @@
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 2. [Computer Algorithms](#computer-algorithms)
 
-<!-- ![Divider](images/line.png) -->
+![Divider](images/line.png)
 
 <h1 align="center">Data Structures</h1>
 
