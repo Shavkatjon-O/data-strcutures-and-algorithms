@@ -17,7 +17,7 @@
 - [Data Structures](#data-structures)
   - [Basics of Data Structures](#data-structures-basics)
     - [Introduction](#data-structures-introduction)
-    - [Abstract data types](#abstract-data-types)
+    - [Abstract Data Types](#abstract-data-types)
     - [Asymptotic Notation](#asymptotic-notation)
 - [Computer Algorithms](#computer-algorithms)
 
