@@ -16,7 +16,7 @@ Data structures are fundamental components in computer science that enable the o
 
 > Choosing the right data structure depends on the specific requirements and operations of the algorithm or application being developed. Efficient data structure selection is crucial for achieving optimal performance and resource utilization.
 
-![Data Structures](images/data-structures.webp)
+![Data Structures](images/data-structures.png)
 
 <!-- ## Table of Contents
 - [Section 1](#section-1)
