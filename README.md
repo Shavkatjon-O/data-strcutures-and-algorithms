@@ -15,8 +15,10 @@
 ## Table of Contents
 
 - [Data Structures](#data-structures)
-  - [Introduction](#data-structures-introduction)
-    - [Introduction to Data Structures](#introduction-to-data-structures)
+  - [Basics of Data Structures](#data-structures-basics)
+    - [Introduction](#data-structures-introduction)
+    - [Abstract data types](#abstract-data-types)
+    - [Asymptotic Notation](#asymptotic-notation)
 - [Computer Algorithms](#computer-algorithms)
 
 ![Divider](images/line.png)
