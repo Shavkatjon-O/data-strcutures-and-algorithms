@@ -10,8 +10,9 @@
 
 Made by [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
+Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications. 
 
-## Table of Contents
+<!-- ## Table of Contents
 - [Section 1](#section-1)
   - [Subsection 1.1](#subsection-1.1)
   - [Subsection 1.2](#subsection-1.2)
@@ -58,7 +59,7 @@ Made by [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 - <span style="color: blue;">[Section 1](#section-1)</span>
 - <span style="color: red;">[Section 2](#section-2)</span>
 - <span style="color: purple;">[Section 3](#section-3)</span>
-
+ -->
 
 <!-- ## Table of Contents
 
