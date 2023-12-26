@@ -16,7 +16,7 @@
 
 - [Data Structures](#data-structures)
   - [Introduction](#data-structures-introduction)
-    -[Introduction to Data Structures](#introduction-to-data-structures)
+    - [Introduction to Data Structures](#introduction-to-data-structures)
 - [Computer Algorithms](#computer-algorithms)
 
 ![Divider](images/line.png)
