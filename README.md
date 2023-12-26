@@ -1,4 +1,4 @@
-<h1 align="center">Data Structures and Computer Algorithms</h1>
+<p align="center"><strong>Data Structures and Computer Algorithms</strong></p>
 
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
