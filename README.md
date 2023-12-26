@@ -1,9 +1,9 @@
 <h1 align="center">Data Structures and Algorithms</h1>
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
-<p align="center">Your must-have cheat sheet on Data Structures and Algorithms! 🚀</p>
+<!-- <p align="center">Your must-have cheat sheet on Data Structures and Algorithms! 🚀</p> -->
 
-![Data Structures and Computer Algorithms](images/dsa-main.png)
+<!-- ![Data Structures and Computer Algorithms](images/dsa-main.png) -->
 
 <!-- > Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in C++, Java, and Python. -->
 
