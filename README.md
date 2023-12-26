@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
-![Data Structures and Computer Algorithms](images/dsa-main.png)
+<!-- ![Data Structures and Computer Algorithms](images/dsa-main.png) -->
 
 <h3>Your must-have cheat sheet on Data Structures and Computer Algorithms! 🚀  </h3>
 
@@ -31,7 +31,7 @@
 
 Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications.
 
-![Data Structures](images/data-structures.png)
+<!-- ![Data Structures](images/data-structures.png) -->
 
 > Choosing the right data structure depends on the specific requirements and operations of the algorithm or application being developed. Efficient data structure selection is crucial for achieving optimal performance and resource utilization.
 
