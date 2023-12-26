@@ -31,11 +31,11 @@
 
 ## Basics of Data Structures
 
-Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications.
+<!-- Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications. -->
 
 <!-- ![Data Structures](images/data-structures.png) -->
 
-> Choosing the right data structure depends on the specific requirements and operations of the algorithm or application being developed. Efficient data structure selection is crucial for achieving optimal performance and resource utilization.
+<!-- > Choosing the right data structure depends on the specific requirements and operations of the algorithm or application being developed. Efficient data structure selection is crucial for achieving optimal performance and resource utilization. -->
 
 
 <!-- ## Table of Contents
