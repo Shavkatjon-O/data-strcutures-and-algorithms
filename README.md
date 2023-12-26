@@ -29,7 +29,7 @@
 
 <h1 align="center">Data Structures</h1>
 
-## Basics of Data Structures
+<!-- ## Basics of Data Structures -->
 
 <!-- Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications. -->
 
