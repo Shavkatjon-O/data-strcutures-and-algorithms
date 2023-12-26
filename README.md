@@ -12,7 +12,9 @@ Made by [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
 ## Introduction to Data Structures
 
-Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications. 
+Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications.
+
+> Choosing the right data structure depends on the specific requirements and operations of the algorithm or application being developed. Efficient data structure selection is crucial for achieving optimal performance and resource utilization.
 
 <!-- ## Table of Contents
 - [Section 1](#section-1)
