@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
-![Image Alt Text](images/dsa1.webp)
+![Image Alt Text](images/dsa11.webp)
 
 <h3>Your must-have cheat sheet on Data Structures and Algorithms! 🚀  </h3>
 
