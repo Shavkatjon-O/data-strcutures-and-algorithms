@@ -10,7 +10,7 @@
 
 **Made by** [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
-![Divider](images/line.png)
+<!-- ![Divider](images/line.png) -->
 
 ## Table of Contents
 
@@ -23,11 +23,11 @@
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
-![Divider](images/line.png)
+<!-- ![Divider](images/line.png) -->
 
 <h1 align="center">Data Structures</h1>
 
-## Introduction to Data Structures
+## Basics of Data Structures
 
 Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications.
 
