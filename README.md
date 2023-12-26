@@ -15,7 +15,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-
 - [Data Structures](#data-structures)
   - [Basics of Data Structures](#data-structures-basics)
     - [Introduction](#data-structures-introduction)
