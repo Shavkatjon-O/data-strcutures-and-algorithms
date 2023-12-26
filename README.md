@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
-![Data Structures and Computer Algorithms](images/DSA.png)
+![Data Structures and Computer Algorithms](images/dsa-main.png)
 
 <h3>Your must-have cheat sheet on Data Structures and Algorithms! 🚀  </h3>
 
