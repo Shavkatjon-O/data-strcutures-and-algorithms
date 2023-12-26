@@ -2,11 +2,11 @@
 
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
-<!-- ![Data Structures and Computer Algorithms](images/dsa-main.png) -->
+![Data Structures and Computer Algorithms](images/dsa-main.png)
 
-<h3>Your must-have cheat sheet on Data Structures and Computer Algorithms! 🚀  </h3>
+<!-- <h3>Your must-have cheat sheet on Data Structures and Computer Algorithms! 🚀  </h3> -->
 
-> Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in C++, Java, and Python.
+<!-- > Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in C++, Java, and Python. -->
 
 **Made by** [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️
 
