@@ -15,12 +15,12 @@
 ## Table of Contents
 
 - [Data Structures](#data-structures)
-  - [Basics of Data Structures 1](#data-structures-basics)
-    - [Introduction 1.1](#data-structures-introduction)
-    - [Abstract Data Types 1.2](#abstract-data-types)
-    - [Asymptotic Notation 1.3](#asymptotic-notation)
-    - [Analyzing Runtime Complexity 1.4](#analyzing-runtime-complexity)
-    - [Analyzing Space Compexity 1.5](#analyzing-space-complexity)
+  - [1. Basics of Data Structures](#data-structures-basics)
+    - [1.1 Introduction](#data-structures-introduction)
+    - [1.2 Abstract Data Types](#abstract-data-types)
+    - [1.3 Asymptotic Notation](#asymptotic-notation)
+    - [1.4 Analyzing Runtime Complexity](#analyzing-runtime-complexity)
+    - [1.5 Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
 <!-- ![Divider](images/line.png) -->
