@@ -19,6 +19,8 @@
     - [Introduction](#data-structures-introduction)
     - [Abstract Data Types](#abstract-data-types)
     - [Asymptotic Notation](#asymptotic-notation)
+    - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
+    - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
 ![Divider](images/line.png)
