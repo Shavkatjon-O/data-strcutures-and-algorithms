@@ -19,7 +19,7 @@
 
 <!-- ![Line](images/line.png) -->
 
-## Table of Contents
+### Table of Contents
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
@@ -144,4 +144,4 @@ The repository is organized into different directories based on programming lang
 
 <h1 align="center">Data Structures</h1>
 
-## Basics of Data Structures 
+### Basics of Data Structures 
