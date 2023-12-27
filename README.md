@@ -1,4 +1,4 @@
-<h1 align="center">Data Structures and Algorithms</h1>
+<h2 align="center">Data Structures and Algorithms</h1>
 <!-- <p align="center"><strong>Lecture Notes • Source Code • Resources • by @Shavkatjon-O</strong></p> -->
 
 <!-- <p align="center">Your must-have cheat sheet on Data Structures and Algorithms! 🚀</p> -->
@@ -131,7 +131,7 @@ The repository is organized into different directories based on programming lang
 
 ![Data Structures and Computer Algorithms](images/dsa-main.png)
 
-## Table of Contents
+### Table of Contents
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
@@ -143,13 +143,13 @@ The repository is organized into different directories based on programming lang
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
-<h1 align="center">Data Structures</h1>
+<h2 align="center">Data Structures</h1>
 
 ![Data Structures](images/data-structures.png)
 
-## 1 - Basics of Data Structures
-### 1.1 - Introduction
-### 1.2 - Abstract Data Types
-### 1.3 - Asymptotic Notation
-### 1.4 - Analyzing Runtime Complexity
-### 1.5 - Analyzing Space Complexity
+### Basics of Data Structures
+#### Introduction
+#### Abstract Data Types
+#### Asymptotic Notation
+#### Analyzing Runtime Complexity
+#### Analyzing Space Complexity
