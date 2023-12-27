@@ -3,7 +3,6 @@
 
 <!-- <p align="center">Your must-have cheat sheet on Data Structures and Algorithms! 🚀</p> -->
 
-<!-- ![Data Structures and Computer Algorithms](images/dsa-main.png) -->
 
 <!-- > Welcome to the Data Structures and Algorithms repository! This repository contains lecture notes and source code implementations of various data structures and algorithms in C++, Java, and Python. -->
 
@@ -28,7 +27,6 @@
 
 <!-- Data structures are fundamental components in computer science that enable the organization, storage, and manipulation of data to efficiently perform various operations. They play a crucial role in designing algorithms and optimizing software applications. -->
 
-<!-- ![Data Structures](images/data-structures.png) -->
 
 <!-- > Choosing the right data structure depends on the specific requirements and operations of the algorithm or application being developed. Efficient data structure selection is crucial for achieving optimal performance and resource utilization. -->
 
@@ -131,6 +129,8 @@ The repository is organized into different directories based on programming lang
 | ...
 ``` -->
 
+![Data Structures and Computer Algorithms](images/dsa-main.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -144,6 +144,8 @@ The repository is organized into different directories based on programming lang
 - [Computer Algorithms](#computer-algorithms)
 
 <h1 align="center">Data Structures</h1>
+
+![Data Structures](images/data-structures.png)
 
 ## 1 - Basics of Data Structures
 ### 1.1 - Introduction
