@@ -10,14 +10,14 @@
 <!-- **Made by** [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️ -->
 
 <!-- ![Line](images/line.png) -->
-
+<!-- 
 | | Python | Java | C++ |
 |----------|----------|----------|----------|
 | Binary Search Algorithm | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 3 |
 | Selection Sort Algorithm | Row 2, Col 2 | Row 2, Col 3 | Row 1, Col 3 |
-| Linked List Implementation | Row 3, Col 2 | Row 3, Col 3 | Row 1, Col 3 |
+| Linked List Implementation | Row 3, Col 2 | Row 3, Col 3 | Row 1, Col 3 | -->
 
-![Line](images/line.png)
+<!-- ![Line](images/line.png) -->
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
-![Line](images/line.png)
+<!-- ![Line](images/line.png) -->
 
 <!-- <h1 align="center">Data Structures</h1> -->
 
