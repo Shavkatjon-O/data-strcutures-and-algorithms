@@ -19,7 +19,7 @@
 
 <!-- ![Line](images/line.png) -->
 
-<!-- ## Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
@@ -29,7 +29,7 @@
     - [Asymptotic Notation](#asymptotic-notation)
     - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
     - [Analyzing Space Compexity](#analyzing-space-complexity)
-- [Computer Algorithms](#computer-algorithms) -->
+- [Computer Algorithms](#computer-algorithms)
 
 <!-- ![Line](images/line.png) -->
 
