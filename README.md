@@ -19,17 +19,6 @@
 
 <!-- ![Line](images/line.png) -->
 
-### Table of Contents
-
-- [Introduction](#introduction)
-- [Data Structures](#data-structures)
-  - [Basics of Data Structures](#data-structures-basics)
-    - [Introduction](#data-structures-introduction)
-    - [Abstract Data Types](#abstract-data-types)
-    - [Asymptotic Notation](#asymptotic-notation)
-    - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
-    - [Analyzing Space Compexity](#analyzing-space-complexity)
-- [Computer Algorithms](#computer-algorithms)
 
 <!-- ![Line](images/line.png) -->
 
@@ -142,6 +131,23 @@ The repository is organized into different directories based on programming lang
 | ...
 ``` -->
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Data Structures](#data-structures)
+  - [Basics of Data Structures](#data-structures-basics)
+    - [Introduction](#data-structures-introduction)
+    - [Abstract Data Types](#abstract-data-types)
+    - [Asymptotic Notation](#asymptotic-notation)
+    - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
+    - [Analyzing Space Compexity](#analyzing-space-complexity)
+- [Computer Algorithms](#computer-algorithms)
+
 <h1 align="center">Data Structures</h1>
 
-### Basics of Data Structures 
+## 1 Basics of Data Structures
+### 1.1 Introduction
+### 1.2 Abstract Data Types
+### 1.3 Asymptotic Notation
+### 1.4 Analyzing Runtime Complexity
+### 1.5 Analyzing Space Complexity
