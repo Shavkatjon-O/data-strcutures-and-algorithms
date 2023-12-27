@@ -145,9 +145,9 @@ The repository is organized into different directories based on programming lang
 
 <h1 align="center">Data Structures</h1>
 
-## 1 Basics of Data Structures
-### 1.1 Introduction
-### 1.2 Abstract Data Types
-### 1.3 Asymptotic Notation
-### 1.4 Analyzing Runtime Complexity
-### 1.5 Analyzing Space Complexity
+## 1 - Basics of Data Structures
+### 1.1 - Introduction
+### 1.2 - Abstract Data Types
+### 1.3 - Asymptotic Notation
+### 1.4 - Analyzing Runtime Complexity
+### 1.5 - Analyzing Space Complexity
