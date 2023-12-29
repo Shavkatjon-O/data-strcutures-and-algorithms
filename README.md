@@ -22,6 +22,15 @@
     - [Asymptotic Notation](#asymptotic-notation)
     - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
     - [Analyzing Space Compexity](#analyzing-space-complexity)
+  - [Searching and Sorting Algorithms](#searching-and-sorting-algorithms)
+    - [Linear Search](#linear-search)
+    - [Binary Search](#binary-search)
+    - [Selection Sort](#selection-sort)
+    - [Bubble Sort](#bubble-sort)
+    - [Insertion Sort](#insertion-sort)
+    - [Merge Sort](#merge-sort)
+    - [Quick Sort](#quick-sort)
+    - [Heap Sort](#heap-sort)
 - [Computer Algorithms](#computer-algorithms)
 
 <!-- ![Line](images/line.png) -->
@@ -68,6 +77,18 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 ### Analyzing Runtime Complexity
 ### Analyzing Space Complexity
+
+## Searching and Sorting Algorithms
+
+### Linear Search
+### Binary Search
+### Selection Sort
+### Bubble Sort
+### Insertion Sort
+### Merge Sort
+### Quick Sort
+### Heap Sort
+
 
 <!-- ![Line](images/line.png) -->
 
