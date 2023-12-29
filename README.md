@@ -158,3 +158,6 @@ A data structure is a way of organizing and storing data to perform operations e
 #### Asymptotic Notation
 #### Analyzing Runtime Complexity
 #### Analyzing Space Complexity
+
+### License
+[MIT](https://github.com/Shavkatjon-O/dsa-lecture-notes/blob/main/LICENSE)
