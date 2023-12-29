@@ -132,6 +132,8 @@ The repository is organized into different directories based on programming lang
 
 ![Data Structures and Computer Algorithms](images/dsa-main.png)
 
+![Line](images/line.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -147,6 +149,8 @@ The repository is organized into different directories based on programming lang
 <h2 align="center">Data Structures</h2>
 
 ![Data Structures](images/data-structures.png)
+
+![Line](images/line.png)
 
 ## Basics of Data Structures
 ### Introduction
