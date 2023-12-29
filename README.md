@@ -157,9 +157,9 @@ The repository is organized into different directories based on programming lang
 ## Basics of Data Structures
 ### Introduction
 
-What is a data structure?
+What is a Data Structure?
 
-A **data structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
+A **Data Structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
 
 > Examples include **arrays**, **linked lists**, **stacks**, and **queues**.
 
@@ -170,6 +170,11 @@ A **data structure** is a way of organizing and storing data to perform operatio
 - **Program** - is a set of coded instructions that a computer can execute to perform a specific task or solve a particular problem.
 
 ### Abstract Data Types
+
+What is an abstract data type?
+
+An **Abstract Data Type (ADT)** is like a blueprint for handling information. It defines what operations you can do with the data, but it doesn't say exactly how to do them. It's like having a remote control for a TV — you know what buttons (operations) to press, but you don't need to know the inner workings of the TV (implementation details). Examples of ADTs are like different types of remotes for various devices, each with its own set of buttons.
+
 ### Asymptotic Notation
 ### Analyzing Runtime Complexity
 ### Analyzing Space Complexity
