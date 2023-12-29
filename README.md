@@ -132,7 +132,7 @@ The repository is organized into different directories based on programming lang
 
 ![Data Structures and Computer Algorithms](images/dsa-main.png)
 
-<!-- ![Line](images/line.png) -->
+![Line](images/line.png)
 
 ## Table of Contents
 
@@ -146,13 +146,13 @@ The repository is organized into different directories based on programming lang
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
-<!-- ![Line](images/line.png) -->
+![Line](images/line.png)
 
 <h1 align="center">Data Structures</h1>
 
-![Data Structures](images/data-structures.png)
+![Data Structures](images/data-structures-1.png)
 
-<!-- ![Line](images/line.png) -->
+![Line](images/line.png)
 
 ## Basics of Data Structures
 ### Introduction
@@ -190,7 +190,7 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 ### Analyzing Runtime Complexity
 ### Analyzing Space Complexity
 
-<!-- ![Line](images/line.png) -->
+![Line](images/line.png)
 
 ## License
 Have a look at the [license](https://github.com/Shavkatjon-O/dsa-lecture-notes/blob/main/LICENSE) file
