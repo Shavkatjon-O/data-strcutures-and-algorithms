@@ -144,7 +144,7 @@ The repository is organized into different directories based on programming lang
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
-<h2 align="center">Data Structures</h1>
+<h2 align="center">Data Structures</h2>
 
 ![Data Structures](images/data-structures.png)
 
@@ -161,4 +161,4 @@ A data structure is a way of organizing and storing data to perform operations e
 #### Analyzing Space Complexity
 
 ### License
-[MIT](https://github.com/Shavkatjon-O/dsa-lecture-notes/blob/main/LICENSE)
+Have a look at the [license](https://github.com/Shavkatjon-O/dsa-lecture-notes/blob/main/LICENSE) file
