@@ -161,6 +161,12 @@ What is a data structure?
 
 A **data structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner. Examples include **arrays**, **linked lists**, **stacks**, and **queues**.
 
+- **Data** - data are simply value or set of values.
+- **Data Structure** - usually refers to an organization of data in main memory.
+- **Problem** - is a challenge or obstacle that requires a solution or resolution.
+- **Algorithm** - is a step-by-step set of instructions or rules to solve a specific problem or perform a task.
+- **Program** - is a set of coded instructions that a computer can execute to perform a specific task or solve a particular problem.
+
 ### Abstract Data Types
 ### Asymptotic Notation
 ### Analyzing Runtime Complexity
