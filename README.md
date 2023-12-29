@@ -177,6 +177,8 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
 
+- **Encapsulation** - in programming encapsulation is like packaging data and the methods that work on that data together. It keeps the inner workings hidden and allows controlled access, making code more organized, secure, and flexible.
+
 ![ADT](images/abstract-data-types.webp)
 
 ### Asymptotic Notation
