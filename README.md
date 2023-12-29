@@ -146,6 +146,8 @@ The repository is organized into different directories based on programming lang
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
+![Line](images/line.png)
+
 <h2 align="center">Data Structures</h2>
 
 ![Data Structures](images/data-structures.png)
