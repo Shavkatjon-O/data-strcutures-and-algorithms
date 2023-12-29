@@ -128,7 +128,7 @@ The repository is organized into different directories based on programming lang
 | ...
 ``` -->
 
-<h2 align="center">Data Structures and Algorithms</h2>
+<h1 align="center">Data Structures and Algorithms</h1>
 
 ![Data Structures and Computer Algorithms](images/dsa-main.png)
 
@@ -148,7 +148,7 @@ The repository is organized into different directories based on programming lang
 
 <!-- ![Line](images/line.png) -->
 
-<h2 align="center">Data Structures</h2>
+<h1 align="center">Data Structures</h1>
 
 ![Data Structures](images/data-structures.png)
 
