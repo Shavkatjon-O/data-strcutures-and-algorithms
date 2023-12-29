@@ -182,6 +182,9 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 ![ADT](images/abstract-data-types.webp)
 
 ### Asymptotic Notation
+
+**Asymptotic Notation** is a fundamental concept in computer science and mathematics that allows us to describe the behavior of algorithms and functions as their input size approaches infinity
+
 ### Analyzing Runtime Complexity
 ### Analyzing Space Complexity
 
