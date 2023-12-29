@@ -150,7 +150,7 @@ The repository is organized into different directories based on programming lang
 
 <h1 align="center">Data Structures</h1>
 
-![Data Structures](images/data-structures-1.png)
+![Data Structures](images/data-structures.png)
 
 <!-- ![Line](images/line.png) -->
 
