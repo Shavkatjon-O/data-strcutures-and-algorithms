@@ -132,7 +132,7 @@ The repository is organized into different directories based on programming lang
 
 ![Data Structures and Computer Algorithms](images/dsa-main.png)
 
-### Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
@@ -148,17 +148,17 @@ The repository is organized into different directories based on programming lang
 
 ![Data Structures](images/data-structures.png)
 
-### Basics of Data Structures
-#### Introduction
+## Basics of Data Structures
+### Introduction
 
 What is a data structure?
 
 A data structure is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner. Examples include arrays, linked lists, stacks, and queues.
 
-#### Abstract Data Types
-#### Asymptotic Notation
-#### Analyzing Runtime Complexity
-#### Analyzing Space Complexity
+### Abstract Data Types
+### Asymptotic Notation
+### Analyzing Runtime Complexity
+### Analyzing Space Complexity
 
-### License
+## License
 Have a look at the [license](https://github.com/Shavkatjon-O/dsa-lecture-notes/blob/main/LICENSE) file
