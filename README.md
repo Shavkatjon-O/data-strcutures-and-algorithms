@@ -177,6 +177,8 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
 
+![ADT](images/abstract-data-types.webp)
+
 ### Asymptotic Notation
 ### Analyzing Runtime Complexity
 ### Analyzing Space Complexity
