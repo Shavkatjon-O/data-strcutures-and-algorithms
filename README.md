@@ -16,8 +16,8 @@
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
-  - [Basics of Data Structures](#data-structures-basics)
-    - [Introduction](#data-structures-introduction)
+  - [Basics of Data Structures](#basics-of-data-structures)
+    - [Introduction to DS](#introduction-to-ds)
     - [Abstract Data Types](#abstract-data-types)
     - [Asymptotic Notation](#asymptotic-notation)
     - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
@@ -34,8 +34,7 @@
 
 ## Basics of Data Structures
 
-### Introduction
-<a name="data-structures-introduction"></a>
+### Introduction to DS
 
 What is a data structure?
 
