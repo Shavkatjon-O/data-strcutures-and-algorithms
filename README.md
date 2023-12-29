@@ -159,11 +159,7 @@ The repository is organized into different directories based on programming lang
 
 **What is a data structure?**
 
-A **data structure** is a way of organizing and storing data to perform operations efficiently.
-
-> It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
-
-Examples include **arrays**, **linked lists**, **stacks**, and **queues**.
+A **data structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner. Examples include **arrays**, **linked lists**, **stacks**, and **queues**.
 
 - **Data** - data are simply value or set of values.
 - **Data Structure** - usually refers to an organization of data in main memory.
