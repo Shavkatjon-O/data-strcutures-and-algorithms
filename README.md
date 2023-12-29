@@ -34,7 +34,7 @@
 
 ## Basics of Data Structures
 
-### Introduction to DS
+### Introduction to Data Structures
 
 What is a data structure?
 
