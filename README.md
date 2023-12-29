@@ -132,7 +132,7 @@ The repository is organized into different directories based on programming lang
 
 ![Data Structures and Computer Algorithms](images/dsa-main.png)
 
-![Line](images/line.png)
+<!-- ![Line](images/line.png) -->
 
 ## Table of Contents
 
@@ -146,13 +146,13 @@ The repository is organized into different directories based on programming lang
     - [Analyzing Space Compexity](#analyzing-space-complexity)
 - [Computer Algorithms](#computer-algorithms)
 
-![Line](images/line.png)
+<!-- ![Line](images/line.png) -->
 
 <h2 align="center">Data Structures</h2>
 
 ![Data Structures](images/data-structures.png)
 
-![Line](images/line.png)
+<!-- ![Line](images/line.png) -->
 
 ## Basics of Data Structures
 ### Introduction
@@ -166,7 +166,7 @@ A data structure is a way of organizing and storing data to perform operations e
 ### Analyzing Runtime Complexity
 ### Analyzing Space Complexity
 
-![Line](images/line.png)
+<!-- ![Line](images/line.png) -->
 
 ## License
 Have a look at the [license](https://github.com/Shavkatjon-O/dsa-lecture-notes/blob/main/LICENSE) file
