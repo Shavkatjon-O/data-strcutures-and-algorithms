@@ -102,10 +102,10 @@ There are three commonly used asymptotic notations:
 
 ```
 def linear_search(array, target):
-  for value in array:
-    if value == target:
-      return True
-  return false
+    for value in array:
+        if value == target:
+            return True
+    return false
 ```
 
 ### Binary Search
