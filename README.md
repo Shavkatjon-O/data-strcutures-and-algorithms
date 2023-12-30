@@ -71,15 +71,15 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 ### Asymptotic Notation
 
-**Asymptotic Notation** is a fundamental concept in computer science and mathematics that allows us to describe the behavior of algorithms and functions as their input size approaches infinity.
+**Asymptotic Notation** is a way of expressing the efficiency or performance of an algorithm by focusing on how its runtime or resource usage grows as the input size increases. It's a mathematical notation that helps computer scientists describe the upper and lower bounds of an algorithm's behavior without getting into the nitty-gritty details.
 
 > The term *Asymptotic Notation* comes from **mathematics** and widely used in **computer science** for measuring complexity of an algorithm in terms of **time** and **space**.
 
-Asymptotic notation is a way of expressing the efficiency or performance of an algorithm by focusing on how its runtime or resource usage grows as the input size increases. It's a mathematical notation that helps computer scientists describe the upper and lower bounds of an algorithm's behavior without getting into the nitty-gritty details.
+There are three commonly used asymptotic notations:
 
 - **Big O Notation (O)** - This represents the upper bound or worst-case scenario of an algorithm's growth. It gives an upper limit on the rate of growth of the algorithm's running time as the input size increases.
 
-Example: If an algorithm is O(n^2), it means that the worst-case running time grows quadratically with the size of the input.
+- Example: If an algorithm is O(n^2), it means that the worst-case running time grows quadratically with the size of the input.
 
 ### Analyzing Time Complexity
 ### Analyzing Space Complexity
