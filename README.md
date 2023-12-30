@@ -71,7 +71,7 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 ### Asymptotic Notation
 
-Watch these videos to better understand the topic [Video-1](https://www.youtube.com/watch?v=A03oI0znAoc&t=427s), [Video-2](https://www.youtube.com/watch?v=Nd0XDY-jVHs)
+Watch these videos to better understand the topic - [video-1](https://www.youtube.com/watch?v=A03oI0znAoc&t=427s), [video-2](https://www.youtube.com/watch?v=Nd0XDY-jVHs)
 
 **Asymptotic Notation** is a way of expressing the efficiency or performance of an algorithm by focusing on how its runtime or resource usage grows as the input size increases. It's a mathematical notation that helps computer scientists describe the upper and lower bounds of an algorithm's behavior without getting into the nitty-gritty details.
 
