@@ -8,7 +8,7 @@
 
 <h1 align="center">Data Structures and Algorithms</h1>
 
-![Data Structures and Computer Algorithms](images/dsa-main.png)
+<!-- ![Data Structures and Computer Algorithms](images/dsa-main.png) -->
 
 <!-- ![Line](images/line.png) -->
 
@@ -37,7 +37,7 @@
 
 <h1 align="center">Data Structures</h1>
 
-![Data Structures](images/data-structures-1.png)
+<!-- ![Data Structures](images/data-structures-1.png) -->
 
 <!-- ![Line](images/line.png) -->
 
