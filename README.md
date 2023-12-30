@@ -75,6 +75,8 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 The term *Asymptotic Notation* comes from **mathematics** and widely used in **computer science** for measuring complexity of an algorithm in terms of **time** and **space**.
 
+![Asymptotic Notation](images/asymptotic-notation.png)
+
 There are three commonly used asymptotic notations:
 
 - **Big O Notation (O)** - This represents the upper bound or worst-case scenario of an algorithm's growth. It gives an upper limit on the rate of growth of the algorithm's running time as the input size increases.
