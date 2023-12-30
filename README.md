@@ -19,7 +19,7 @@
   - [Basics of Data Structures](#basics-of-data-structures)
     - [Introduction to Data Structures](#introduction-to-data-structures)
     - [Abstract Data Types](#abstract-data-types)
-    - [Asymptotic Notation](#asymptotic-notation)
+    - [Asymptotic Notation (O, Ω, Θ)](#asymptotic-notation)
     - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
     - [Analyzing Space Compexity](#analyzing-space-complexity)
   - [Searching and Sorting Algorithms](#searching-and-sorting-algorithms)
