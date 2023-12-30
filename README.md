@@ -101,6 +101,8 @@ There are three commonly used asymptotic notations:
 ### Linear Search
 
 ```python
+# Linear Search implemented in python
+
 def linear_search(array, target):
   for value in array:
     if value is target:
