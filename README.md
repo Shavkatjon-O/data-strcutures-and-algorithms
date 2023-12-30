@@ -79,7 +79,15 @@ There are three commonly used asymptotic notations:
 
 - **Big O Notation (O)** - This represents the upper bound or worst-case scenario of an algorithm's growth. It gives an upper limit on the rate of growth of the algorithm's running time as the input size increases.
 
-- Example: If an algorithm is O(n^2), it means that the worst-case running time grows quadratically with the size of the input.
+- **Example** - If an algorithm is O(n^2), it means that the worst-case running time grows quadratically with the size of the input.
+
+- **Omega Notation (Ω)** - This represents the lower bound or best-case scenario of an algorithm's growth. It provides a lower limit on the rate of growth of the algorithm's running time.
+
+- **Example** - If an algorithm is Ω(n), it means that the best-case running time grows linearly with the size of the input.
+
+- **Theta Notation (θ)** - This is a combination of Big O and Omega notations, providing both upper and lower bounds. It gives a tight bound on the growth rate of an algorithm.
+
+- **Example** - If an algorithm is θ(n), it means that both the best-case and worst-case running times grow linearly with the size of the input.
 
 ### Analyzing Time Complexity
 ### Analyzing Space Complexity
