@@ -103,7 +103,7 @@ There are three commonly used asymptotic notations:
 ```python
 def linear_search(array, target):
   for value in array:
-    if value == target:
+    if value is target:
       return True
   return False
 ```
