@@ -20,7 +20,7 @@
     - [Introduction to Data Structures](#introduction-to-data-structures)
     - [Abstract Data Types](#abstract-data-types)
     - [Asymptotic Notation (O, Ω, Θ)](#asymptotic-notation)
-    - [Analyzing Runtime Complexity](#analyzing-runtime-complexity)
+    - [Analyzing Time Complexity](#analyzing-time-complexity)
     - [Analyzing Space Compexity](#analyzing-space-complexity)
   - [Searching and Sorting Algorithms](#searching-and-sorting-algorithms)
     - [Linear Search](#linear-search)
@@ -75,7 +75,13 @@ An **Abstract Data Type (ADT)** is like a blueprint for handling information. It
 
 > The term *Asymptotic Notation* comes from **mathematics** and widely used in **computer science** for measuring complexity of an algorithm in terms of **time** and **space**.
 
-### Analyzing Runtime Complexity
+Asymptotic notation is a way of expressing the efficiency or performance of an algorithm by focusing on how its runtime or resource usage grows as the input size increases. It's a mathematical notation that helps computer scientists describe the upper and lower bounds of an algorithm's behavior without getting into the nitty-gritty details.
+
+- **Big O Notation (O)** - This represents the upper bound or worst-case scenario of an algorithm's growth. It gives an upper limit on the rate of growth of the algorithm's running time as the input size increases.
+
+Example: If an algorithm is O(n^2), it means that the worst-case running time grows quadratically with the size of the input.
+
+### Analyzing Time Complexity
 ### Analyzing Space Complexity
 
 ## Searching and Sorting Algorithms
