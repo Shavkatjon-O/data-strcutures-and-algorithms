@@ -99,6 +99,15 @@ There are three commonly used asymptotic notations:
 ## Searching and Sorting Algorithms
 
 ### Linear Search
+
+```
+def linear_search(array, target):
+  for value in array:
+    if value == target:
+      return True
+  return false
+```
+
 ### Binary Search
 ### Selection Sort
 ### Bubble Sort
