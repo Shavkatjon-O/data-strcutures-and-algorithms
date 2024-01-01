@@ -66,11 +66,11 @@ Examples of data structures include **arrays**, **linked lists**, **stacks**, an
 ### Abstract Data Types
 
 Two important things about data types:
-1. Definesa certain domain of values.
-2. Defines Operations allowed on those values.
+- Definesa certain domain of values.
+- Defines Operations allowed on those values.
 Ex. **float** type:
-1. Takes only floating point values.
-2. Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
+- Takes only floating point values.
+- Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
 
 What is user defined data type?
 
