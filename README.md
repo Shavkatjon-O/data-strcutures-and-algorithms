@@ -98,7 +98,17 @@ ADTs are like user defined data types which defines operations on values using f
 
 Example - *Stack* ADT
 
-A stack consists of elements of same type arranged in a sequential order.
+A **stack** consists of elements of same type arranged in a sequential order.
+
+- **initialize()** - initializing it to empty.
+- **push()** - insert an element into the stack.
+- **pop()** - delete an element from the stack.
+- **isEmplty** - checks if stack is empty.
+- **isFull** - checks if stack is full.
+
+There are multiple ways of implementing an ADT
+
+Example - a stack ADT can be implemented using arrays or linked lists.
 
 <!-- ![ADT](images/abstract-data-types.webp) -->
 
