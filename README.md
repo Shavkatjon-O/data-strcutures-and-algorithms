@@ -65,6 +65,14 @@ Examples of data structures include **arrays**, **linked lists**, **stacks**, an
 
 ### Abstract Data Types
 
+Data Type:
+1. Definesa certain domain of values
+2. Defines Operations allowed on those values
+
+Example - ```float``` type
+- Takes only floating point values
+- Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
+
 What is an abstract data type?
 
 An **Abstract Data Type (ADT)** is like a blueprint for handling information. It defines what operations you can do with the data, but it doesn't say exactly how to do them. It's like having a remote control for a TV — you know what buttons (operations) to press, but you don't need to know the inner workings of the TV (implementation details). Examples of ADTs are like different types of remotes for various devices, each with its own set of buttons.
