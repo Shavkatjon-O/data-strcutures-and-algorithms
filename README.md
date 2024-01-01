@@ -68,6 +68,7 @@ Examples of data structures include **arrays**, **linked lists**, **stacks**, an
 Two important things about data types:
 - Definesa certain domain of values.
 - Defines Operations allowed on those values.
+
 Ex. **float** type:
 - Takes only floating point values.
 - Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
