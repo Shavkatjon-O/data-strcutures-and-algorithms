@@ -51,9 +51,9 @@
 
 **What is a data structure?**
 
-A **Data Structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
+A *Data Structure* is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
 
-Examples of data structures include **arrays**, **linked lists**, **stacks**, and **queues**.
+Examples of data structures include *arrays*, *linked lists*, *stacks*, and *queues*.
 
 - **Data** - data items refers to a single unit of value.
 - **Data Type** - a data type is a collection of values and set of operations that act on those values.
