@@ -6,16 +6,16 @@
 
 <!-- **Made by** [Shavkatjon-O](https://github.com/Shavkatjon-O) ⚡️ -->
 
-<h1 align="center">Data Structures and Algorithms</h1>
+<!-- <h1 align="center">Data Structures and Algorithms</h1> -->
 
 <!-- ![Data Structures and Computer Algorithms](images/dsa-main.png) -->
 
 <!-- ![Line](images/line.png) -->
 
-## Resources
+<!-- ## Resources
 
 - Data Structures and Algorithms by [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
-- Data Structures by [Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
+- Data Structures by [Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) -->
 
 <!-- ## Table of Contents -->
 
