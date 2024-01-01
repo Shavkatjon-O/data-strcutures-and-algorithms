@@ -55,7 +55,8 @@ A **Data Structure** is a way of organizing and storing data to perform operatio
 
 > Examples include **arrays**, **linked lists**, **stacks**, and **queues**.
 
-- **Data** - data are simply value or set of values.
+- **Data** - data items refers to a single unit of value
+- **Data Type** - a data type is a collection of values and set of operations that act on those values
 - **Data Structure** - usually refers to an organization of data in main memory.
 - **Problem** - is a challenge or obstacle that requires a solution or resolution.
 - **Algorithm** - is a step-by-step set of instructions or rules to solve a specific problem or perform a task.
