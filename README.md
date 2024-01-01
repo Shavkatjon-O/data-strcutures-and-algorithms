@@ -17,9 +17,9 @@
 - Data Structures and Algorithms by [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 - Data Structures by [Neso Academy](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
-- [Data Structures](#data-structures)
+<!-- - [Data Structures](#data-structures)
   - [Basics of Data Structures](#basics-of-data-structures)
     - [Introduction](#introduction)
     - [Abstract Data Types](#abstract-data-types)
@@ -35,7 +35,7 @@
     - [Merge Sort](#merge-sort)
     - [Quick Sort](#quick-sort)
     - [Heap Sort](#heap-sort)
-- [Computer Algorithms](#computer-algorithms)
+- [Computer Algorithms](#computer-algorithms) -->
 
 <!-- ![Line](images/line.png) -->
 
