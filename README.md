@@ -65,11 +65,11 @@ Examples of data structures include **arrays**, **linked lists**, **stacks**, an
 
 ### Abstract Data Types
 
-Data Type:
-1. Definesa certain domain of values
-2. Defines Operations allowed on those values
+Two important things about data types:
+- Definesa certain domain of values
+- Defines Operations allowed on those values
 
-Example - ```float``` type
+Example **float** type
 - Takes only floating point values
 - Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
 
