@@ -65,7 +65,7 @@ Examples of data structures include **arrays**, **linked lists**, **stacks**, an
 
 ### Abstract Data Types
 
-Two important things about data types:
+Two important things about **data types**:
 - Definesa certain domain of values.
 - Defines Operations allowed on those values.
 
