@@ -12,12 +12,15 @@
 
 <!-- ![Line](images/line.png) -->
 
+## Resources
+
+- [DSA by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
+
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Data Structures](#data-structures)
   - [Basics of Data Structures](#basics-of-data-structures)
-    - [Introduction to Data Structures](#introduction-to-data-structures)
+    - [Introduction](#introduction)
     - [Abstract Data Types](#abstract-data-types)
     - [Asymptotic Notation (O, Ω, Θ)](#asymptotic-notation)
     - [Analyzing Time Complexity](#analyzing-time-complexity)
@@ -43,7 +46,7 @@
 
 ## Basics of Data Structures
 
-### Introduction to Data Structures
+### Introduction
 
 What is a data structure?
 
