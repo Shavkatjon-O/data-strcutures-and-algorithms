@@ -92,7 +92,7 @@ struct point {
 
 An **abstract data type** is like a blueprint for handling information. It defines what operations you can do with the data, but it doesn't say exactly how to do them.
 
-> It's like having a remote control for a TV, you know what buttons (operations) to press, but you don't need to know the inner workings of the TV (implementation details). Examples of ADTs are like different types of remotes for various devices, each with its own set of buttons.
+> EXAMPLE: It's like having a remote control for a TV, you know what buttons (operations) to press, but you don't need to know the inner workings of the TV (implementation details). Examples of ADTs are like different types of remotes for various devices, each with its own set of buttons.
 
 ADTs are like user defined data types which defines operations on values using functions without specifying what is there inside the function and how the operations are performed.
 
