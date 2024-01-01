@@ -138,7 +138,7 @@ Watch these videos to better understand the topic - [video-1](https://www.youtub
 
 The term *Asymptotic Notation* comes from **mathematics** and widely used in **computer science** for measuring complexity of an algorithm in terms of **time** and **space**.
 
-![Asymptotic Notation](images/asymptotic-notatiomn.png)
+![Asymptotic Notation](images/asymptotic-notation.png)
 
 There are three commonly used asymptotic notations:
 
