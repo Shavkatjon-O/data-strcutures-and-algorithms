@@ -117,9 +117,18 @@ Example - a stack ADT can be implemented using arrays or linked lists.
 
 ![ADT](images/abstract-data-types.png)
 
+An **ADT** describes a set of objects sharing the same properties and behaviours.
+- The properties of an ADT are its data.
+- The behavioursof an ADT are its operations or functions.
+
+Thus, an ADT couples its data and operations.
+- OOP emphasizes data abstraction
+
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
 
 - **Encapsulation** - in programming encapsulation is like packaging data and the methods that work on that data together. It keeps the inner workings hidden and allows controlled access, making code more organized, secure, and flexible.
+
+A data structure is the physical implementation of an ADT.
 
 ### Asymptotic Notation
 
