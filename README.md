@@ -96,7 +96,11 @@ An **abstract data type** is like a blueprint for handling information. It defin
 
 ADTs are like user defined data types which defines operations on values using functions without specifying what is there inside the function and how the operations are performed.
 
-![ADT](images/abstract-data-types.webp)
+Example - *Stack* ADT
+
+A stack consists of elements of same type arranged in a sequential order.
+
+<!-- ![ADT](images/abstract-data-types.webp) -->
 
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
 
