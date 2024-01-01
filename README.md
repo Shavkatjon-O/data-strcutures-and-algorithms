@@ -121,7 +121,7 @@ An **ADT** describes a set of objects sharing the same properties and behaviours
 - The properties of an ADT are its data.
 - The behavioursof an ADT are its operations or functions.
 
-Thus, an ADT couples its data and operations.
+Thus, an **ADT** couples its data and operations.
 - OOP emphasizes data abstraction
 
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
