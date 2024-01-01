@@ -82,6 +82,8 @@ Example - *structure*, *union* and *enumeration*.
 By using structures, we are defining our own type by combining other data types.
 
 ```cpp
+// C++
+
 struct point {
   int x;
   int y;
@@ -130,7 +132,7 @@ There are three commonly used asymptotic notations:
 ### Linear Search
 
 ```python
-# Linear Search implemented in python
+# Python
 
 def linear_search(array, target):
   for value in array:
