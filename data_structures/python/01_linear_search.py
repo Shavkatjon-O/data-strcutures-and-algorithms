@@ -17,3 +17,4 @@ if __name__ == "__main__":
     result = linear_search(array, target)
 
     print("Value found: " + str(result))
+    print("Hello World")
