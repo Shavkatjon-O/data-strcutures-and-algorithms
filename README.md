@@ -83,7 +83,6 @@ By using structures, we are defining our own type by combining other data types.
 
 ```cpp
 // C++
-
 struct point {
   int x;
   int y;
@@ -133,7 +132,6 @@ There are three commonly used asymptotic notations:
 
 ```python
 # Python
-
 def linear_search(array, target):
   for value in array:
     if value is target:
