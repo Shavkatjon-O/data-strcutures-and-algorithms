@@ -51,7 +51,7 @@
 
 **What is a data structure?**
 
-A *Data Structure* is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
+A **Data Structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
 
 Examples of data structures include *arrays*, *linked lists*, *stacks*, and *queues*.
 
@@ -65,11 +65,11 @@ Examples of data structures include *arrays*, *linked lists*, *stacks*, and *que
 
 ### Abstract Data Types
 
-Two important things about **data types**:
+Two important things about *data types*:
 - Definesa certain domain of values.
 - Defines Operations allowed on those values.
 
-Ex. **float** type:
+Ex. *float* type:
 - Takes only floating point values.
 - Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
 
