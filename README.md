@@ -49,7 +49,7 @@
 
 ### Introduction
 
-> WHAT IS A DATA STRUCTURE?
+**What is a data structure?**
 
 A **Data Structure** is a way of organizing and storing data to perform operations efficiently. It defines the relationship and operations that can be performed on the data, providing a means to access and manipulate it in a structured and organized manner.
 
@@ -73,13 +73,12 @@ Ex. **float** type:
 - Takes only floating point values.
 - Operations: addition, substraction, multiplication, division etc (bitwise and % operations are not allowed).
 
-> WHAT IS A USER DEFINED DATA TYPE?
+**What is user defined data type?**
 
 The operations and values of user defined data types are not specified in the language itself but is specified by the user.
 
 
-
-> WHAT IS AN ABSTRACT DATA TYPE?
+**What is an abstract data type?**
 
 An **Abstract Data Type (ADT)** is like a blueprint for handling information. It defines what operations you can do with the data, but it doesn't say exactly how to do them. It's like having a remote control for a TV — you know what buttons (operations) to press, but you don't need to know the inner workings of the TV (implementation details). Examples of ADTs are like different types of remotes for various devices, each with its own set of buttons.
 
