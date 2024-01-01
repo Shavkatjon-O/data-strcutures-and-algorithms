@@ -14,7 +14,7 @@
 
 ## Resources
 
-- [DSA by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
+- Data Structures and Algorithms by [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 
 ## Table of Contents
 
