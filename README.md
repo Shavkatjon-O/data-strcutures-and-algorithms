@@ -115,7 +115,7 @@ Example - a stack ADT can be implemented using arrays or linked lists.
 1. The program which uses data structure is called a client program. it has access to the ADT i.e interface.
 2. The program which implements the structure is known as the implementation.
 
-![ADT](images/abstract-data-types.webp)
+![ADT](images/abstract-data-types-1.png)
 
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
 
