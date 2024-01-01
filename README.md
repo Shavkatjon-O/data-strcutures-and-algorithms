@@ -77,6 +77,16 @@ Ex. *float* type:
 
 The operations and values of user defined data types are not specified in the language itself but is specified by the user.
 
+Example: structure, union and enumeration.
+
+By using structures, we are defining our own type by combining other data types.
+
+```cpp
+struct point {
+  int x;
+  int y;
+}
+```
 
 **What is an abstract data type?**
 
