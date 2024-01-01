@@ -110,7 +110,7 @@ There are multiple ways of implementing an ADT
 
 Example - a stack ADT can be implemented using arrays or linked lists.
 
-<!-- ![ADT](images/abstract-data-types.webp) -->
+![ADT](images/abstract-data-types.webp)
 
 - **Abstraction** - means focusing on what operations you can do with the data, without worrying about how those operations are done behind the scenes. It's like using a tool without needing to know how it's built.
 
